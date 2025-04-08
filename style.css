@@ -1,0 +1,24 @@
+body {
+    background-color: yellow;
+}
+.btn{
+    height: 50px;
+    width: 500px;
+    margin-left: 450px;
+    background-color: bisque;
+}
+.yellow{
+    background-color: yellow;
+    color: black;
+}
+.black{
+    background-color: black;
+    color: white;
+}
+.btn1{
+    height: 50px;
+    width: 500px;
+    margin-left: 450px;
+    margin-top: 25px;
+    background-color: rgb(240, 176, 94);
+}
